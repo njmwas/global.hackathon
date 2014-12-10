@@ -14,5 +14,5 @@ According to [The OpenSource Report Card](https://osrc.dfm.io/aksalj/), Salama A
 The Project
 ===========
 Our #hackathon project is called TransChat. It is a chat application that leverages the owesome power of Google Translate to over come the issue of language barrer when two people are communicating with different languages
-YOu can test the application at [TransChat](http://njmwas.koding.io:3000) or [TransChat](http://salama.koding.io:3000) and use username:'njmwas' and password:'julius' to login as one user then open another browser and login using username:'aksalj' and password:'salama'.
+YOu can test the application at [TransChat](http://njmwas.koding.io:3000) or [TransChat](http://salama.koding.io:3000) and use username:`njmwas` and password:`julius` to login as one user then open another browser and login using username:`aksalj` and password:'salama'.
 Enjoy the chat
